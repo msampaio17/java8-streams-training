@@ -10,6 +10,7 @@ public class MainBuildingStreams {
 
 	public static void main(String[] args) {
 
+		//change to test git
 		List<Integer> ints = Arrays.asList(0, 1, 2, 3, 4);
 		
 		Stream<Integer> stream1 = ints.stream();
